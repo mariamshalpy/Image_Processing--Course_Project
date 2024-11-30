@@ -1,1 +1,1 @@
-# Image_Processing--Course_Project
+# Image_Processing_Course_Project
